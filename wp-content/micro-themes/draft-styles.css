@@ -1,0 +1,21 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= General =================== */
+
+/** General >> Ast desktop header site header primary section right **/
+#ast-desktop-header .site-header-primary-section-right {
+	color: rgb(192, 210, 235) !important;
+	line-height: 30px !important;
+}
+
+/** General >> Ast desktop header ast builder grid row container **/
+#ast-desktop-header .ast-builder-grid-row-container {
+	color: rgb(159, 165, 173) !important;
+}
+
+/** General >> Ast desktop header site header primary section left **/
+#ast-desktop-header .site-header-primary-section-left {
+	
+}
+
